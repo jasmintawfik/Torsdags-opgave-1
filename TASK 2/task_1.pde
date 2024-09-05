@@ -1,0 +1,10 @@
+String teachername = "tess løvgreen";// //<>//
+int dage = 365;
+String by =  "København";
+boolean byenerKøbenhavn = true;
+int minutes = 60*24;
+float decimaltal = 22.12;
+String hej = "Hej, jeg heddder "+teachername;
+boolean byenErKøbenhavn = false;
+float regneStyk = 2.2 + 33;
+char serEtBogstav ='S';
